@@ -22,3 +22,8 @@
 ### Day 0
   * [Hello World](day0/hello-world.js)
   * [Data Types](day0/data-type.js)
+
+### Day 1
+  * [Arithmetic Operators](day1/arithmetic-operators.js)
+  * [Let vs Const](day1/let-vs-const.js)
+  * [function factorials](day1/function.js)
